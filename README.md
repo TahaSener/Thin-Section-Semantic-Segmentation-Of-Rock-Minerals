@@ -32,7 +32,7 @@
 
 ## Running the Prediction Script
 
-1. Ensure you have your model and config file in the `Model/` directory.
+1. Ensure you have your model(You can find pretrained one on 'Notes' section below) and config file in the `Model/` directory.
 2. Place your example images in the `Example Dataset/` directory.
 3. Run the prediction script:
     ```bash
@@ -46,7 +46,7 @@ This will generate segmentation predictions and save them in the `Predictions/` 
 - The latest model and full dataset are not included due to a TUBİTAK agreement.
 - The example dataset is provided for demonstration purposes only.
 - Link to paper will be added.
-- Link to Trained Model:[![Download](https://img.icons8.com/fluency/48/download.png)](https://drive.google.com/file/d/1-Er1iENJV4wzsQEGFO4pZzu0MbPtG7Ch/view?usp=sharing).
+- Trained Model:[![Download](https://img.icons8.com/fluency/48/download.png)](https://drive.google.com/file/d/1-Er1iENJV4wzsQEGFO4pZzu0MbPtG7Ch/view?usp=sharing)
 
 ## License
 
