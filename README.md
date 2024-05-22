@@ -46,10 +46,11 @@ This will generate segmentation predictions and save them in the `Predictions/` 
 - The latest model and full dataset are not included due to a TUBİTAK agreement.
 - The example dataset is provided for demonstration purposes only.
 - Link to paper will be added.
-- Link to Model will be added when paper puplished.
+- Link to Trained Model:[![Download](https://img.icons8.com/ios-filled/50/000000/download.png)](https://drive.google.com/file/d/1-Er1iENJV4wzsQEGFO4pZzu0MbPtG7Ch/view?usp=sharing).
 
 ## License
 
-This project is licensed under the GPL-2.0 License.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License].
