@@ -46,6 +46,7 @@ This will generate segmentation predictions and save them in the `Predictions/` 
 - The latest model and full dataset are not included due to a TUBİTAK agreement.
 - The example dataset is provided for demonstration purposes only.
 - Link to paper will be added.
+- Link to Model will be added when paper puplished.
 
 ## License
 
